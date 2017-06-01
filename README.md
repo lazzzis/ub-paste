@@ -28,7 +28,7 @@ ub-paste test.py
 ub-paste /tmp/Main.java
 ```
 
-![](https://s11.postimg.org/p47f1breb/ub-paste-demo.gif)
+![](https://raw.githubusercontent.com/lazzzis/lazzzis.github.io/master/projects/images/ub-paste-demo.gif)
 
 `ub-paste` will paste their contents to [ubuntu pastebin](pastebin.ubuntu.com) and then automatically open the web page in the browser.
 
